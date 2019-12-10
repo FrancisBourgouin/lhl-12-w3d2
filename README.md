@@ -1,4 +1,4 @@
-# W7D3 - Lecture - CRUD with Express
+# W3D2 - Lecture - CRUD with Express
 
 ### What is Express?
 
